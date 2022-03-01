@@ -1,0 +1,109 @@
+/* #################### Header #################### */
+header .inner {
+  padding: 0 40px;
+}
+header .sub-nav .inner {
+  padding-left: 40px;
+}
+header .btn {
+  width: 85px;
+  font-size: 15px;
+}
+header .arrow--down {
+  margin-left: 1px;
+}
+#search-form {
+  margin-left: 20px;
+}
+#search {
+  display: none;
+}
+header .search__icon {
+  top: 8px;
+  left: -15px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+
+
+/* Section Common */
+.section {
+  position: relative;
+  margin: 30px 40px;
+}
+/* #################### Section--banner #################### */
+section.section--banner {
+  margin: 0 40px;
+  margin-top: 140px;
+}
+
+/* slick */
+.section--banner .slick-dots li {
+  margin: 0px -5px;
+}
+.section--banner .slick-prev {
+  left: 2%;
+}
+.section--banner .slick-next {
+  right: 2%;
+}
+
+
+
+/* #################### Section--icon #################### */
+section.section--icon {
+  margin: 0 40px;
+}
+
+
+
+/* #################### Section--category #################### */
+.section--category .category__slider {
+  display: flex;
+  overflow-x: auto;
+}
+.section--category .category__slider li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 16.66666666%;
+}
+.section--category .category__slider li > div {
+  padding: 5px;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,.07);
+  border-radius: 24px;
+  box-shadow: 0 2px 3px 0 rgb(234 235 239 / 40%);
+  overflow: hidden;
+}
+
+
+/* #################### Section--petmal #################### */
+.section--petmal {
+  margin: 0 40px;
+}
+
+
+
+/* #################### Section--apply #################### */
+.section--apply .apply-box {
+  justify-content: left;
+  text-align: left;
+}
+.section--apply .apply-box span {
+  display: block;
+  vertical-align: 0;
+  margin-left: 0;
+}
+
+
+
+
+/* #################### Footer #################### */
+footer .inner {
+  max-width: 1256px;
+  padding: 30px 40px 40px;
+  margin: 0 auto;
+}
