@@ -20,5 +20,5 @@
 - 태블릿  
   ![image](https://user-images.githubusercontent.com/15353850/156141006-6951c3d4-0f94-4074-b31f-14b048a03fe6.png)
 
-- 모바일
+- 모바일  
   ![image](https://user-images.githubusercontent.com/15353850/156141079-0df21c34-57bb-4d41-986a-79a43653b9b3.png)
